@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">Data Analyst | SQL • Power BI • Python | Turning data into business impact.</h3>
 
-- 🌱 I’m currently learning **Data bricks,Pyspark and snow flake**
+- 🌱 I’m currently learning **Data bricks,Pyspark and snowflake**
 
 - 👨‍💻 All of my projects are available at [abc.linkedin](abc.linkedin)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-jain-8149a4a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-jain-8149a4a6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-jain-8149a4a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-jain-8149a4a6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@triratna_inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@triratna_inc" height="30" width="40" /></a>
 </p>
 
