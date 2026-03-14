@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">Data Analyst | SQL • Power BI • Python | Turning data into business impact.</h3>
 
-- 🌱 I’m currently learning **Data brinks,Pyspark and snow flake**
+- 🌱 I’m currently learning **Data bricks,Pyspark and snow flake**
 
 - 👨‍💻 All of my projects are available at [abc.linkedin](abc.linkedin)
 
